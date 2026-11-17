@@ -16,9 +16,13 @@ Des prestations sur mesure centrées sur l'expérience utilisateur.
 
 ---
 
-## 👋 Qui sommes-nous ?
+## 👋 À propos de l'Agence Dc&c Saint-Nazaire
 
-[Deux ou trois phrases de présentation de l'agence : son histoire, sa façon de travailler, ce qui la distingue.]
+L'agence Dc&c, votre partenaire créatif en design, communication et coaching, est basée au cœur de Saint-Nazaire.
+
+Notre agence sert un large éventail d'entités : TPE et PME, entrepreneurs, startups, associations, collectivités et particuliers, dans toute la région.
+
+📍 **Proximité locale & disponibilité étendue en distanciel** : nous nous déplaçons chez nos clients pour mieux comprendre leur environnement professionnel, et privilégions le distanciel pour ceux qui sont situés plus loin. Nous ne recevons pas de visite directe dans nos locaux.
 
 ## 🎯 Nos expertises
 
