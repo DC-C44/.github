@@ -32,9 +32,6 @@ Notre agence sert un large éventail d'entités : TPE et PME, entrepreneurs, sta
 | 📣 **Communication** | [Stratégie, réseaux sociaux, contenus…] |
 | 🤝 **Coaching** | [Accompagnement, ateliers, formations…] |
 
-## 🛠️ Ce que vous trouverez ici
-
-[Une phrase sur l'usage de cette organisation GitHub : sites, outils internes, projets, ressources partagées.]
 
 ## 📬 Nous contacter
 
